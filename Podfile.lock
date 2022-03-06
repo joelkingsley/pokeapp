@@ -1,0 +1,42 @@
+PODS:
+  - FloatingPanel (2.4.0)
+  - Hue (5.0.0)
+  - JGProgressHUD (2.2)
+  - KeychainAccess (4.2.2)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+  - Swinject (2.8.0)
+  - UIImageColors (2.1.0)
+
+DEPENDENCIES:
+  - FloatingPanel
+  - Hue
+  - JGProgressHUD
+  - KeychainAccess
+  - SDWebImage (~> 4.4.2)
+  - Swinject
+  - UIImageColors
+
+SPEC REPOS:
+  trunk:
+    - FloatingPanel
+    - Hue
+    - JGProgressHUD
+    - KeychainAccess
+    - SDWebImage
+    - Swinject
+    - UIImageColors
+
+SPEC CHECKSUMS:
+  FloatingPanel: fa60183672ed86313b9e241e34465e82211260e8
+  Hue: c129cb67be7d093a82bbbc30ce8a96757bf6f37a
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  Swinject: db795b8d6d78559b25fbebb0170d2635be1176e2
+  UIImageColors: d2ef3b0877d203cbb06489eeb78ea8b7788caabe
+
+PODFILE CHECKSUM: 3f9cd9cff5ae5a614e35a255c0341f47e1786b2a
+
+COCOAPODS: 1.11.2
